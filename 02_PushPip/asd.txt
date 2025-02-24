@@ -1,0 +1,1 @@
+total 12 drwxr-xr-x 2 lee users 4096 Feb 24 21:48 02_PushPip/ -rw-r--r-- 1 lee users 908 Feb 24 21:46 output.txt -rw-r--r-- 1 lee users 1251 Feb 24 21:44 twocows.py
